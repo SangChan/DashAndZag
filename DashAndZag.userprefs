@@ -1,9 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Scripts/Camera Scripts/SmoothFollow.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ObstacleLauncher.js">
     <Files>
-      <File FileName="Assets/MoveSimple.js" Line="20" Column="22" />
+      <File FileName="Assets/MoveSimple.js" Line="1" Column="1" />
       <File FileName="Assets/Standard Assets/Scripts/Camera Scripts/SmoothFollow.js" Line="1" Column="1" />
+      <File FileName="Assets/MovAround.js" Line="20" Column="47" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/Joystick.js" Line="90" Column="30" />
+      <File FileName="Assets/FinishLineRender.js" Line="16" Column="2" />
+      <File FileName="Assets/FinishLineDetection.js" Line="9" Column="35" />
+      <File FileName="Assets/ObstacleLauncher.js" Line="38" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
